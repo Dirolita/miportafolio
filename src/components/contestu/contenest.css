@@ -1,0 +1,31 @@
+li{
+    font-family: 'Raleway', sans-serif; 
+    font-size: 18px;
+    color: rgb(71, 23, 3);
+    margin: 1rem;
+    list-style: none;
+}
+ul{ width: 60%;
+    padding: 1.5rem;
+    background-color: beige;
+    justify-content: space-around;
+    margin: 2rem auto;
+}
+.estu-titulo{
+    width: 90%;
+    background-color: rgb(223, 181, 139);
+    padding: 8px;
+}
+.btn-est{
+    text-decoration: none;
+    background-color: rgb(148, 83, 39);;
+    padding: 4px;
+    color: beige;
+
+}
+.detalles-est{
+    margin: 1.5rem auto;
+    background-color: beige;
+    width: 50%;
+    padding: 2rem;
+}

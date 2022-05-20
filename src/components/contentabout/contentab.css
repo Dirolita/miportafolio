@@ -1,0 +1,12 @@
+h2, h3,p{
+    font-family: 'Raleway', sans-serif; 
+    color: rgb(71, 23, 3);
+}
+.cont-about{
+    background-color: beige;
+    padding: 1rem;
+    width: 70%;
+    display: flex;
+    margin:5rem auto;
+    justify-content: space-around;
+}

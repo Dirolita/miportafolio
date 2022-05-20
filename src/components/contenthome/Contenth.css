@@ -1,0 +1,91 @@
+.img-fon-cont{
+    background-image: url(../contenthome/images/fondo-h.jpeg);
+    background-size: cover;
+    width: 10rem;
+    height: 30rem;
+}
+.cont-h-1{
+    position: absolute;
+    width: 80%;
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 1rem;
+   
+}
+.cont-h-prr{
+padding: 2rem;
+background-color: antiquewhite;
+width: 15rem;
+position:absolute;
+left: 2rem;
+top: 3rem;
+font-size: 16px;
+}
+.cont-foto img{
+    width: 8rem;
+    position: relative;
+    top: 33rem;
+    right:4rem ;
+    border-radius: 50%;
+    animation: myfoto 4s ease-out  1;
+    
+}
+
+@keyframes myfoto{
+    0%{ transform: translateY(-400px);}
+    100%{transform: translateY(-2px);}
+}
+@media screen and (min-width:500px){
+    .cont-h-prr{
+        width: 25rem;
+        left: 4rem;
+        font-size: 20px;
+    }
+    .img-fon-cont{
+        width: 21rem;
+        height: 24rem;
+    }
+    .cont-foto img{
+        width: 10rem;
+        position: absolute;
+        top: 28rem;
+        right:6rem ;
+        }
+}
+@media screen and (min-width:700px){
+    .cont-h-prr{
+        width: 40rem;
+        left: 4rem;
+        font-size: 20px;
+    }
+    .img-fon-cont{
+        width: 23rem;
+    }
+    .cont-foto img{
+        width: 13rem;
+        position: absolute;
+        top: 18rem;
+        right:-2rem ;
+        }
+}
+
+@media screen and (min-width:1030px){
+    .img-fon-cont{
+        width: 21rem;
+        height: 24rem;
+    }
+    .cont-h-1{
+        margin-left: 8rem;
+    }
+    .cont-h-prr{
+        width: 45rem;
+        left: 10rem;
+        font-size: 20px;
+    }
+    .cont-foto img{
+    width: 13rem;
+    position: absolute;
+    top: 11rem;
+    right:3rem ;
+    }
+    }

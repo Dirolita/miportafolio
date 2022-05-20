@@ -1,0 +1,16 @@
+.card{
+    width: 10rem;
+    padding: 1rem;
+}
+.card-text{
+    width: 6rem;
+}
+.skll{
+    background-color: beige;
+    padding: 3rem;
+    margin: 5rem auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    
+}
