@@ -14,6 +14,7 @@ root.render(
 < BrowserRouter>
     <Routes>
       <Route path='/' element={<Home/>}></Route>
+      <Route path='/miportafolio/' element={<Home/>}></Route>
       <Route path='/about-me' element={<Aboutme/>}></Route>
       <Route path='/jobs' element={<Jobs/>}></Route>
       <Route path='/skills' element={<Skills/>}></Route>
