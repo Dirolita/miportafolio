@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dirolita/miportafolio.git/static/css/main.6fbbb330.css",
-    "main.js": "/Dirolita/miportafolio.git/static/js/main.22b828a9.js",
-    "static/media/foto.PNG": "/Dirolita/miportafolio.git/static/media/foto.05315c3f17f8ac2fdcb4.PNG",
-    "static/media/fondo-h.jpeg": "/Dirolita/miportafolio.git/static/media/fondo-h.9d9bc01e2ca737c37bbb.jpeg",
-    "index.html": "/Dirolita/miportafolio.git/index.html",
-    "main.6fbbb330.css.map": "/Dirolita/miportafolio.git/static/css/main.6fbbb330.css.map",
-    "main.22b828a9.js.map": "/Dirolita/miportafolio.git/static/js/main.22b828a9.js.map"
+    "main.css": "/miportafolio/static/css/main.fd5c0fdf.css",
+    "main.js": "/miportafolio/static/js/main.570e1916.js",
+    "static/media/foto.PNG": "/miportafolio/static/media/foto.05315c3f17f8ac2fdcb4.PNG",
+    "static/media/fondo-h.jpeg": "/miportafolio/static/media/fondo-h.9d9bc01e2ca737c37bbb.jpeg",
+    "index.html": "/miportafolio/index.html",
+    "main.fd5c0fdf.css.map": "/miportafolio/static/css/main.fd5c0fdf.css.map",
+    "main.570e1916.js.map": "/miportafolio/static/js/main.570e1916.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fbbb330.css",
-    "static/js/main.22b828a9.js"
+    "static/css/main.fd5c0fdf.css",
+    "static/js/main.570e1916.js"
   ]
 }
