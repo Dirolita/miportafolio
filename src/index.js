@@ -17,6 +17,7 @@ root.render(
       <Route path='/about-me' element={<Aboutme/>}></Route>
       <Route path='/jobs' element={<Jobs/>}></Route>
       <Route path='/skills' element={<Skills/>}></Route>
+      <Route path='*' element={<Error404/>}></Route>
       <Route path='/studies' element={<Studies/>}></Route>
       <Route path='/home' element={<Navigate replace to={"/"}/>}></Route>
       <Route path='/studies/:id' element={<EstCompl/>}></Route>
