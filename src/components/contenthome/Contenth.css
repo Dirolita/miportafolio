@@ -69,7 +69,7 @@ font-size: 16px;
         }
 }
 
-@media screen and (min-width:1030px){
+@media screen and (min-width:1020px){
     .img-fon-cont{
         width: 21rem;
         height: 24rem;
